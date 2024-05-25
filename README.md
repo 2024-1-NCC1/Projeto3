@@ -8,7 +8,7 @@
 
 ## Grupo 3
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Vitor Batista Wang</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pedro Dimitry Zyrianoff</a>, <a href="https://www.linkedin.com/in/victorbarq/">Arthur Lins Belamino</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Kenichi Soares</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Vitor Batista Wang</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pedro Dimitry Zyrianoff</a>, <a href="https://www.linkedin.com/in/victorbarq/">Arthur Lins Belamino</a>, <a href="https://www.linkedin.com/in/victorbarq/"></a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucas Kenichi Soares</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Alves Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/"></a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
