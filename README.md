@@ -4,25 +4,27 @@
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Clean Race
+# Nome do Projeto
 
-## Grupo 3
+## Nome do Grupo
 
-## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Vitor Batista Wang</a>, <a href="https://www.linkedin.com/in/victorbarq/">Pedro Dimitry Zyrianoff</a>, <a href="https://www.linkedin.com/in/victorbarq/">Arthur Lins Belamino</a>, <a href="https://www.linkedin.com/in/victorbarq/"></a> <a href="https://www.linkedin.com/in/victorbarq/">Lucas Kenichi Soares</a>
+## Integrantes: <a href="https://www.linkedin.com/in/victorbarq/">Goku Sayajin</a>, <a href="https://www.linkedin.com/in/victorbarq/">Saitama One</a>, <a href="https://www.linkedin.com/in/victorbarq/">Ikki de Fenix</a>, <a href="https://www.linkedin.com/in/victorbarq/">Yusuke Urameshi</a>, <a href="https://www.linkedin.com/in/victorbarq/">Roronoa Zoro</a>
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Alves Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Gilles Pedroza Leite</a>, <a href="https://www.linkedin.com/in/victorbarq/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/victorbarq/"></a> <a href="https://www.linkedin.com/in/victorbarq/"></a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
 ## Descrição
 
 <p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="Clean Race" border="0">
+<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
   Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
 </p>
 
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
-<br><br> 
-O nosso Projeto tem por finalidade ajudar o meio ambiente, por meio da energia renovável. Criamos um jogo de corrida que se passa na natureza, onde ultilizamos um carro elétrico e mostramos sua capacidade na corrida. a pontuação se passa pela coleta de moedas verdes que representam a ultilização da natureza para o fim da poluição.
+<br><br>
+Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+<br><br>
+May the force be with you!
 <br><br>
 
 ## 🛠 Estrutura de pastas
